@@ -1,0 +1,16 @@
+{
+  "name": "drag-and-drop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "hwnii <hwniieo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
